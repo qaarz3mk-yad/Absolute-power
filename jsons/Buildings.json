@@ -3,7 +3,7 @@
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "LOD Empire",
-		"cost": 480,
+		"cost": 80,
 		"happiness": 120,
 		"culture": 120,
 		"science": 210,
