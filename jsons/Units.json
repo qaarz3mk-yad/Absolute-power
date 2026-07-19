@@ -12,4 +12,11 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
+	{
+	"name": "Shadow vampiric Knight",
+	"unitType": "Melee",
+	"movement": 20,
+	"strength": 540,
+	"cost": 10,
+	"promotions": ["Blitz"]
 ]
