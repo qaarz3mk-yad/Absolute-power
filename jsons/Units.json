@@ -15,6 +15,7 @@
 	{
 	"name": "Shadow vampiric Knight",
 	"unitType": "Melee",
+	"uniqueTo": "LOD Empire",
 	"movement": 20,
 	"strength": 540,
 	"cost": 10,
