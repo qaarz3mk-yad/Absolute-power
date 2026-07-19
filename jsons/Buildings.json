@@ -7,6 +7,7 @@
 		"happiness": 120,
 		"culture": 120,
 		"science": 210,
+		"production": 120,
 		"maintenance": 1,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
@@ -20,4 +21,20 @@
 		"happiness": 200,
 		"uniques": ["400% of food is carried over after a new citizen is born"]
 	}
+	{
+	    "name": "Darkness Shadow Empiror Dragon Libirary",
+		"uniqueTo": "LOD Empire",
+		"cost": 100,
+		"happiness": 500,
+		"IsNationalWonder": true,
+		"uniques": ["+400%Science","+10 Gold,+5 Production per 1 population in all cities"]
+	}
+	{
+	    "name": "High Empiror Dragons National Academy",
+		"uniqueTo": "LOD Empire",
+		"cost": 500,
+		"happiness": 570,
+		"isNationalWonder": true,
+		"cityStrength": 770,
+		"uniques": ["New all units start with 1500 XP in all cities"]
 ]
