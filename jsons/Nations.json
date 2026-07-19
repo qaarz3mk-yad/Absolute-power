@@ -1,40 +1,40 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "LOD Empire",
+		"leaderName": "Captain Qaarz",
+		"adjective": ["LOD"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Hello",
+		"startIntroPart2": "Hi",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "YOU WANTED YOUR OWN DEATH",
+		"attacked": "THEN YOU WANTED YOUR OWN DEATH",
+		"defeated": "I Dont Know HOW did you manged to Do this Miracle",
+		"introduction": "Hi",
 		
 		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		//"neutralLetsHearIt": ["Go For it","What do you say?","You may begin."],
 		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		//"neutralYes": ["good.","OK, yes.","That good enough."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": " do you want your death?",
 		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		//"hateNo": ["That is not possible!","We are not agreeing to that!","I think that you want your death fast"],
+		//"hateYes": ["That is fine.","That is good enough.","well..."],
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		//"afterPeace": "You escaped with your life.",
+		"tradeRequest": "(T＿T(/ー￣;))",
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		"declaringfriendship": "Let us become like friends",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["The Dark Castle","The Bloody Castle","Dragons Castle","Shadow Empiror Tower","Castle Of dark Swords","Shadow Darkness Dragon Den","Land of Mosnters","Castle of the sky","Dark Snow Castle",
+			"Forst Of Darkness","Darkness Monster Den","Castle of Monsters","Bloody Shadows Castle","pure Voidic Shadow Empiror","The Throne Of the Shadowy Darkness bloody flamic Insain Empiror of Dragons","Maze Of Dark Shadows","Castle of Nuclear Shadow Knight","Dark Empiror Throne","Thrones of the seven kings",
+			"Den of Zovelu Dragons","Voidic King Castle","The Castle Of Diplomicy","Academy of Artmislus","Island Of Flameic Void Shadowy Darkness aura","The Castle of Shadowy Bloody Swords","The Anoshian Castle","The Old Dark Flames Castle of Dark gems","Towers of Skys","Throne Of The Mygictic Shadowy Darkness Empiror Dragon",
+			"Drakolusus Pure Shadows Castle","The Ultra Voidic Shadowy Dark Drakness Tower","Dark Darkness Weapons Weapons","The Empiror Of Mygistic Dark Darkness Sadowy Voidic Empiror Hyper Insain Dragons","Castle of Immense Dark Drakness Aure","Land Of Forgoten Empirors"]
 	}
 ]
