@@ -2,24 +2,22 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "LOD Empire",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"happiness": 120,
+		"culture": 120,
+		"science": 210,
+		"maintenance": 1,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Darkness Nation",
+		"uniqueTo": "LOD Empire",
+		"cost": 30,
+		"hurryCostModifier": 50,
+		"happiness": 200,
+		"uniques": ["400% of food is carried over after a new citizen is born"]
 	}
 ]
