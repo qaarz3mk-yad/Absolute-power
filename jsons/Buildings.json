@@ -27,7 +27,7 @@
 		"cost": 100,
 		"happiness": 500,
 		"IsNationalWonder": true,
-		"uniques": ["+400%Science","+10 Gold,+5 Production per 1 population in all cities"]
+		"uniques": ["+400%Science","+10 Gold,+5 Production per 1 population in all cities","Reveals the entire map"]
 	}
 	{
 	    "name": "High Empiror Dragons National Academy",
@@ -38,5 +38,22 @@
 		"cityStrength": 770,
 		"cityHealth": 770,
 		"uniques": ["New all units start with 1500 XP in all cities"]
+	}
+	{
+	    "name": "Darkness Shadowy Void Transmentor",
+		"uniqueTo": "LOD Empire",
+		"cost": 3000,
+		"isNationalWonder": true,
+		"production": 50,
+		"food": 50,
+		"maintenance": 50,
+		"percentStatBonus": {"Production": 300,"Food": 100}
+		"uniques": ["+300% growth in all cities","provides all per turn"]
+	}
+	{   "name": "HOLY SITE",
+		"faith": 300,
+		"percentStatBonus": {"Faith": 900},
+		"uniqueTo": "LOD Empire",
+		"uniques": ["+5 Gold per 1 population in all cities"]
 	}
 ]
