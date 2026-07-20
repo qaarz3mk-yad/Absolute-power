@@ -3,6 +3,7 @@
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "LOD Empire",
+		"cost": 10,
 		"happiness": 120,
 		"culture": 120,
 		"science": 210,
@@ -14,12 +15,14 @@
 		"name": "Darkness Nation",
 		"uniqueTo": "LOD Empire",
 		"happiness": 200,
+		"cost": 10,
 		"uniques": ["[400]% of food is carried over after a new citizen is born [in all cities]"]
 	}
 	{
 	    "name": "Darkness Shadow Empiror Dragon Libirary",
 		"uniqueTo": "LOD Empire",
 		"happiness": 500,
+		"cost": 10,
 		"IsNationalWonder": true,
 		"percentStatBonus": {"Science": 400}
 		"uniques": ["[+400]%[Science]","[+10 Gold,+5 Production] per 1 population in all cities","Reveals the entire map"]
@@ -30,6 +33,7 @@
 		"happiness": 570,
 		"isNationalWonder": true,
 		"cityStrength": 770,
+		"cost": 10,
 		"cityHealth": 770,
 		"uniques": ["New [all] units start with [1500] XP [in all cities]"]
 	}
@@ -40,11 +44,13 @@
 		"production": 50,
 		"food": 50,
 		"maintenance": 50,
+		"cost": 10,
 		"percentStatBonus": {"Production": 300,"Food": 100}
 		"uniques": ["[+300%] growth [in all cities]","provides [all]"]
 	}
 	{   "name": "HOLY SITE",
 		"faith": 300,
+		"cost":10,
 		"percentStatBonus": {"Faith": 900},
 		"uniqueTo": "LOD Empire",
 		"uniques": ["[+5 Gold] per [1] population [in all cities]"]
