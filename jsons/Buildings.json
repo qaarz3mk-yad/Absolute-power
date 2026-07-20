@@ -16,7 +16,7 @@
 		"uniqueTo": "LOD Empire",
 		"happiness": 200,
 		"cost": 10,
-		"uniques": ["[400]% of food is carried over after a new citizen is born [in all cities]"]
+		"uniques": ["[400]%Food is carried over after population increases[in all cities]"]
 	}
 	{
 	    "name": "Darkness Shadow Empiror Dragon Libirary",
