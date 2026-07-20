@@ -25,7 +25,7 @@
 		"cost": 10,
 		"IsNationalWonder": true,
 		"percentStatBonus": {"Science": 400}
-		"uniques": ["[+400]%[Science][in all cities]","[+10 Gold,+5 Production] per 1 population in all cities","Reveals the entire map"]
+		"uniques": ["[+400]%[Science][in all cities]","[+10 Gold,+5 Production] per [1] population [in all cities]","Reveals the entire map"]
 	}
 	{
 	    "name": "High Empiror Dragons National Academy",
