@@ -21,7 +21,8 @@
 		"uniqueTo": "LOD Empire",
 		"happiness": 500,
 		"IsNationalWonder": true,
-		"uniques": ["[+400]%[Science]","+10 Gold,+5 Production per 1 population in all cities","Reveals the entire map"]
+		"percentStatBonus": {"Science": 400}
+		"uniques": ["[+400]%[Science]","[+10 Gold,+5 Production] per 1 population in all cities","Reveals the entire map"]
 	}
 	{
 	    "name": "High Empiror Dragons National Academy",
@@ -40,7 +41,7 @@
 		"food": 50,
 		"maintenance": 50,
 		"percentStatBonus": {"Production": 300,"Food": 100}
-		"uniques": ["[+300%] growth [in all cities]","provides [all] per turn"]
+		"uniques": ["[+300%] growth [in all cities]","provides [all]"]
 	}
 	{   "name": "HOLY SITE",
 		"faith": 300,
