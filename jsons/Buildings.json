@@ -3,57 +3,49 @@
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "LOD Empire",
-		"cost": 80,
 		"happiness": 120,
 		"culture": 120,
 		"science": 210,
 		"production": 120,
 		"maintenance": 1,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
 	},
 	{
 		"name": "Darkness Nation",
 		"uniqueTo": "LOD Empire",
-		"cost": 30,
-		"hurryCostModifier": 50,
 		"happiness": 200,
-		"uniques": ["400% of food is carried over after a new citizen is born"]
+		"uniques": ["[400]% of food is carried over after a new citizen is born [in all cities]"]
 	}
 	{
 	    "name": "Darkness Shadow Empiror Dragon Libirary",
 		"uniqueTo": "LOD Empire",
-		"cost": 100,
 		"happiness": 500,
 		"IsNationalWonder": true,
-		"uniques": ["+400%Science","+10 Gold,+5 Production per 1 population in all cities","Reveals the entire map"]
+		"uniques": ["[+400]%[Science]","+10 Gold,+5 Production per 1 population in all cities","Reveals the entire map"]
 	}
 	{
 	    "name": "High Empiror Dragons National Academy",
 		"uniqueTo": "LOD Empire",
-		"cost": 500,
 		"happiness": 570,
 		"isNationalWonder": true,
 		"cityStrength": 770,
 		"cityHealth": 770,
-		"uniques": ["New all units start with 1500 XP in all cities"]
+		"uniques": ["New [all] units start with [1500] XP [in all cities]"]
 	}
 	{
 	    "name": "Darkness Shadowy Void Transmentor",
 		"uniqueTo": "LOD Empire",
-		"cost": 3000,
 		"isNationalWonder": true,
 		"production": 50,
 		"food": 50,
 		"maintenance": 50,
 		"percentStatBonus": {"Production": 300,"Food": 100}
-		"uniques": ["+300% growth in all cities","provides all per turn"]
+		"uniques": ["[+300%] growth [in all cities]","provides [all] per turn"]
 	}
 	{   "name": "HOLY SITE",
 		"faith": 300,
 		"percentStatBonus": {"Faith": 900},
 		"uniqueTo": "LOD Empire",
-		"uniques": ["+5 Gold per 1 population in all cities"]
+		"uniques": ["[+5 Gold] per [1] population [in all cities]"]
 	}
 ]
