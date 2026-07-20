@@ -36,6 +36,7 @@
 		"happiness": 570,
 		"isNationalWonder": true,
 		"cityStrength": 770,
+		"cityHealth": 770,
 		"uniques": ["New all units start with 1500 XP in all cities"]
 	}
 ]
