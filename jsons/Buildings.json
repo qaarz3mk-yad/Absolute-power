@@ -46,7 +46,7 @@
 		"maintenance": 50,
 		"cost": 10,
 		"percentStatBonus": {"Production": 300,"Food": 100}
-		"uniques": ["[+300]% growth [in all cities]","Provides [1] [Iron] <every [1] turns>"]
+		"uniques": ["[+300]% growth [in all cities]","Provides [1] [[Iron],[oil]] <every [1] turns>"]
 	}
 	{   "name": "HOLY SITE",
 		"faith": 300,
