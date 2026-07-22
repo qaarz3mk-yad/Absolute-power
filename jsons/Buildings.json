@@ -48,8 +48,8 @@
 		"percentStatBonus": {"Production": 300,"Food": 100}
 		"uniques": [
 			"[+300]% growth [in all cities]",
-			"Provides [1] resources <every [1] [Circus] turns>",
-			"Provides [1] resources <every [1] [Copper] turns>"
+			"Provides [1] [Circus] <every [1] turns>",
+			"Provides [1] [Copper] <every [1] turns>"
 		]
 	}
 	{   "name": "HOLY SITE",
