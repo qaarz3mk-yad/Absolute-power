@@ -46,7 +46,7 @@
 		"maintenance": 50,
 		"cost": 10,
 		"percentStatBonus": {"Production": 300,"Food": 100}
-		"uniques": ["[+300]% growth [in all cities]","Provides [1] [Production] <every [1] turns>"]
+		"uniques": ["[+300]% growth [in all cities]","Provides [1] [Circus,Copper, Cotton,Crab,Dyes,Furs,Gems,Gold Ore,Incense,Lvory,Jewelry,Marble,Pearls,Procelian,Salt,Silk,Silver,Spices,Sugar,Truffles,Whales,Wine,Almuniam,Coal,Horses,Iron,Oil,Uranium,Bananas,Cattle,Deer,Fish,Sheep,Stone,Wheat] <every [1] turns>"]
 	}
 	{   "name": "HOLY SITE",
 		"faith": 300,
