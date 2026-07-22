@@ -1,0 +1,25 @@
+[
+  {
+    "columNumber": "5",
+    "era": "Future",
+    "techCost": 777,
+    "BuildingCost": 777,
+    "WonderCost": 777,
+    "techs": [
+      {
+        "name": "Darkness Prestige",
+        "row": 7,
+        "quote": "..."
+        "uniqueTo": "LOD Empire",
+        "uniques": [
+          "[+400]% [Production] [in all cities]",
+          "[+400]% [Food] [in all cities]",
+          "[+400]% [Gold] [in all cities],
+          "[+400]% [Science] [in all cities],
+          "[+400]% [Culture] [in all cities],
+          "[+400]% [Happiness] [in all cities],
+          "[+400]% [Faith] [in all cities]
+        ]
+}
+}
+]
