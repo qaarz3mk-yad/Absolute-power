@@ -1,0 +1,37 @@
+[
+  {
+    "name": "LOD Structure",
+    "turnsToBuild": 1,
+    "terrainsCanBeBuiltOn": [
+      "Desert",
+      "Grassland",
+      "Mountain",
+      "Plains",
+      "Snow",
+      "Tundra"
+    ]
+    "Food": 5,
+    "Science": 5,
+    "Gold": 5,
+    "Culture": 5,
+    "Production": 5,
+    "Happiness": 5,
+    "uniqueTo": "LOD Empire",
+    "uniques": [
+      "Improves [all] resource in this tile",
+      "Unpillagable",
+      "Can be built outside your borders",
+      "Ensures a minimum tile yield of [+5 Gold, +5 Science, +5 Production, +5 Happiness, +5 Culture, +5 Food]",
+      "Can also be built on tiles adjacent to fresh water",
+      "Tile provides yield without assigned population",
+      "[+5 Gold, +5 Science, +5 Production, +5 Happiness, +5 Culture, +5 Food] <starting from the [Classical era]>",
+      "[+5 Gold, +5 Science, +5 Production, +5 Happiness, +5 Culture, +5 Food] <starting from the [Medieval era]>",
+      "[+5 Gold, +5 Science, +5 Production, +5 Happiness, +5 Culture, +5 Food] <starting from the [Renaissance era]>",
+      "[+5 Gold, +5 Science, +5 Production, +5 Happiness, +5 Culture, +5 Food] <starting from the [Industrial era]>",
+      "[+5 Gold, +5 Science, +5 Production, +5 Happiness, +5 Culture, +5 Food] <starting from the [Modern era]>",
+      "[+5 Gold, +5 Science, +5 Production, +5 Happiness, +5 Culture, +5 Food] <starting from the [Atomic era]>",
+      "[+5 Gold, +5 Science, +5 Production, +5 Happiness, +5 Culture, +5 Food] <starting from the [Information era]>",
+      "[+5 Gold, +5 Science, +5 Production, +5 Happiness, +5 Culture, +5 Food] <starting from the [Future era]>"
+    ]
+  }
+]
