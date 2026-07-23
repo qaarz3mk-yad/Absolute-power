@@ -1,0 +1,13 @@
+[
+	{
+		"name": "UltraBomber",
+		"movementType": "Land",
+    "uniques": ["Aircraft",
+			"[+7] Sight",
+			"Can see over obstacles",
+			"Ranged attacks may be performed over obstacles",
+			"Cannot be carried by [Carrier] units",
+      "Can move after attacking"
+    ]
+	}
+]
