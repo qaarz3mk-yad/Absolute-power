@@ -11,7 +11,7 @@
 		"cost": 5,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
+	},
 	{
 	"name": "Shadow vampiric Knight",
 	"unitType": "Melee",
@@ -20,5 +20,12 @@
 	"strength": 540,
 	"cost": 10,
 	"promotions": ["Blitz"]
-	}
+	},
+	{
+		"name": "The Insain Drakness Imperial Voidic Shadow Dragon",
+		"unitType": "Melee",
+		"uniqueTo": " LOD Empire",
+		"cost": 3000,
+		"":
+		
 ]
