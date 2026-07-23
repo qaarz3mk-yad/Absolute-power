@@ -6,21 +6,9 @@
 			"[99] additional attacks per turn",
 		],
 		"unitTypes": [
-			"Infantry",
-			"Stealth Infantry",
-			"Sniper",
-			"Scout",
-			"Rover",
-			"Hover",
-			"Armored",
-			"Siege",
-			"Close Range Water",
-			"Ranged Water",
-			"Submarine",
-			"Helicopter",
-			"Close Range Mech",
-			"Ranged Mech",
-			"Satellite"
+			"Air",
+			"Water",
+			"Land"
 		],
 		"row": 7,
         "column": 7
