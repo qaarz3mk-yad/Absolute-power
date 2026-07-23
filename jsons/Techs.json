@@ -14,12 +14,13 @@
         "uniques": [
           "[+400]% [Production] [in all cities]",
           "[+400]% [Food] [in all cities]",
-          "[+400]% [Gold] [in all cities],
-          "[+400]% [Science] [in all cities],
-          "[+400]% [Culture] [in all cities],
-          "[+400]% [Happiness] [in all cities],
-          "[+400]% [Faith] [in all cities]
+          "[+400]% [Gold] [in all cities]",
+          "[+400]% [Science] [in all cities]",
+          "[+400]% [Culture] [in all cities]",
+          "[+400]% [Happiness] [in all cities]",
+          "[+400]% [Faith] [in all cities]"
         ]
 }
+]
 }
 ]
