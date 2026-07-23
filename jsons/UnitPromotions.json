@@ -6,9 +6,25 @@
 			"[99] additional attacks per turn",
 		],
 		"unitTypes": [
-			"Air",
-			"Water",
-			"Land"
+			"AtomicBomber",
+			"Bomber",
+			"Fighter",
+			"Missile",
+			"AircraftCarrier",
+			"CivilianWater",
+			"MeleeWater",
+			"RangedWater",
+			"Submarine",
+			"Archery",
+			"Armored",
+			"Civilian",
+			"Gunpowder",
+			"Helicopter",
+			"Melee",
+			"Mounted",
+			"Scout",
+			"Siege",
+			"Sword"
 		],
 		"row": 7,
         "column": 7
