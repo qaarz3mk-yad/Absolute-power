@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Utalanum",
+    "resourceType": "Strategic",
+    "revealedBy": "Darkness Prestige",
+		"terrainsCanBeFoundOn": ["Grassland", "Plains","Desert","Snow","Tundra","Mountain","Lakes","Ocean","Coast"]
+    "Production": 50,
+    "improvedBy": ["LOD Structure"],
+    "improvementStats": { "food": 50 , "gold": 50 , "Culture": 50 , "Production": 50 , "Science": 50 , "Happiness":50},
+    "uniques": ["Generated with weight [17]"]
+  }
+    ],
