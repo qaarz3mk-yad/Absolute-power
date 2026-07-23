@@ -23,9 +23,21 @@
 	},
 	{
 		"name": "The Insain Drakness Imperial Voidic Shadow Dragon",
-		"unitType": "Melee",
+		"unitType": "UltraBomber",
 		"uniqueTo": " LOD Empire",
 		"cost": 3000,
-		"":
+		"maintenance": 5,
+		"movement": 17,
+		"requiredTech": "Darkness Prestige",
+		"strength": 2250,
+		"rangedStrength": 2550,
+		"range": 45,
+		"interceptRange": 45,
+		"promotions": ["INSANITY"],
+		"uniques": [
+			"[100]% chance to intercept air attacks",
+			"[-100]% maintenance costs",
+		]
+		
 		
 ]
