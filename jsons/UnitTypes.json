@@ -1,7 +1,7 @@
 [
 	{
 		"name": "UltraBomber",
-		"movementType": "Land",
+		"movementType": "Air",
     "uniques": ["Aircraft",
 			"[+7] Sight",
 			"Can see over obstacles",
