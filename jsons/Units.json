@@ -36,7 +36,8 @@
 		"promotions": ["INSANITY","Logistics"],
 		"uniques": [
 			"[100]% chance to intercept air attacks",
-			"[-100]% maintenance costs"
+			"[-100]% maintenance costs",
+			"Can capture cities"
 		]
 	}
 ]
