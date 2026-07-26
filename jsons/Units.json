@@ -28,7 +28,7 @@
 		"requiredTech": "Darkness Prestige",
 		"cost": 3000,
 		"maintenance": 5,
-		"movement": 170,
+		"movement": 17,
 		"strength": 2250,
 		"rangedStrength": 2550,
 		"range": 450,
@@ -38,6 +38,8 @@
 		"uniques": [
 			"[100]% chance to intercept air attacks",
 			"[-100]% maintenance costs",
+			"No defensive terrain bonus",
+			​"Ignores terrain cost",
 			"Can capture cities"
 		]
 	}
