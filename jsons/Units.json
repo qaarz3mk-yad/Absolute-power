@@ -13,13 +13,13 @@
 		"attackSound": "phasers"
 	},
 	{
-	"name": "Shadow vampiric Knight",
-	"unitType": "Melee",
-	"uniqueTo": "LOD Empire",
-	"movement": 20,
-	"strength": 540,
-	"cost": 10,
-	"promotions": ["Blitz"]
+		"name": "Shadow vampiric Knight",
+		"unitType": "Melee",
+		"uniqueTo": "LOD Empire",
+		"movement": 20,
+		"strength": 540,
+		"cost": 10,
+		"promotions": ["Blitz"]
 	},
 	{
 		"name": "The Insain Drakness Imperial Voidic Shadow Dragon",
@@ -37,5 +37,5 @@
 			"[100]% chance to intercept air attacks",
 			"[-100]% maintenance costs"
 		]
-	},
+	}
 ]
