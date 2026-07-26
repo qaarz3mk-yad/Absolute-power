@@ -21,7 +21,7 @@
     "Happiness": 5,
     "uniqueTo": "LOD Empire",
     "uniques": [
-      "Improves [all] resource in this tile",
+      "Improves [all] resources in this tile",
       "Unpillagable",
       "Can be built outside your borders",
       "Ensures a minimum tile yield of [+5 Gold, +5 Science, +5 Production, +5 Happiness, +5 Culture, +5 Food]",
