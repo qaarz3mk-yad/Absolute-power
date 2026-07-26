@@ -24,7 +24,7 @@
 	{
 		"name": "The Insain Drakness Imperial Voidic Shadow Dragon",
 		"unitType": "UltraBomber",
-		"uniqueTo": " LOD Empire",
+		"uniqueTo": "LOD Empire",
 		"cost": 3000,
 		"maintenance": 5,
 		"movement": 17,
