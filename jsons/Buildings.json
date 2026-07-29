@@ -22,7 +22,7 @@
 	    "name": "Darkness Shadow Empiror Dragon Libirary",
 		"uniqueTo": "LOD Empire",
 		"happiness": 500,
-		"Score": 3000,
+		"score": 3000,
 		"cost": 10,
 		"IsNationalWonder": true,
 		"percentStatBonus": {"Science": 400}
