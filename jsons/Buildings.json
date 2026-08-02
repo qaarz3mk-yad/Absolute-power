@@ -24,7 +24,7 @@
 		"happiness": 500,
 		"score": 3000,
 		"cost": 10,
-		"IsNationalWonder": true,
+		"isNationalWonder": true,
 		"percentStatBonus": {"Science": 400}
 		"uniques": ["[+400]% [Science] [in all cities]","[+10 Gold, +5 Production] per [1] population [in all cities]","Reveals the entire map"]
 	}
