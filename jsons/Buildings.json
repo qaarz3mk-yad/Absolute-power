@@ -17,7 +17,7 @@
 		"happiness": 200,
 		"cost": 10,
 		"uniques": ["[400]% Food is carried over after population increases [in all cities]"]
-	}
+	},
 	{
 	    "name": "Darkness Shadow Empiror Dragon Libirary",
 		"uniqueTo": "LOD Empire",
@@ -37,7 +37,7 @@
 		"cost": 10,
 		"cityHealth": 770,
 		"uniques": ["New [all] units start with [1500] XP [in all cities]"]
-	}
+	},
 	{
 	    "name": "Darkness Shadowy Void Transmentor",
 		"uniqueTo": "LOD Empire",
@@ -85,7 +85,7 @@
 			"Provides [1] [Stone] <every [1] turns>",
 			"Provides [1] [Wheat] <every [1] turns>"
 		]
-	}
+	},
 	{   "name": "HOLY SITE",
 		"faith": 300,
 		"cost":10,
